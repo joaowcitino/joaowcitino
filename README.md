@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Citino, mais conhecido como feijão
+## Olá! Eu sou o João Citino
  <div>
   <a href="https://github.com/feijonts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feijonts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
